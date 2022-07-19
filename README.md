@@ -3,3 +3,5 @@ Some basic image fusion algorithms includinf SURF, ORB and STITCH have been impl
 SURF is implmented by C++, ORB is implemented by C++ and Python and STITCH is implemented by Python running in Notebbook.
 
 You can see the results and principles and optimization methods in Report.pdf.
+
+For C++, you must configure OpenCV first. And you should also pay attention to your OpenCv version in Python.
