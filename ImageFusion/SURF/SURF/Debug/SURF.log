@@ -1,0 +1,29 @@
+﻿生成启动时间为 2022/5/18 15:26:40。
+     1>项目“c:\Users\steve\documents\visual studio 2013\Projects\SURF\SURF\SURF.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SURF.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SURF.cpp
+         SURF.cpp
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(87): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(133): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(153): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(159): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(183): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(184): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+     1>c:\users\steve\documents\visual studio 2013\projects\surf\surf\surf.cpp(185): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\steve\documents\visual studio 2013\Projects\SURF\Debug\SURF.exe" /INCREMENTAL /NOLOGO "C:\OpenCV\build\x86\vc12\lib\*d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\steve\documents\visual studio 2013\Projects\SURF\Debug\SURF.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\steve\documents\visual studio 2013\Projects\SURF\Debug\SURF.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\SURF.obj
+         SURF.vcxproj -> c:\users\steve\documents\visual studio 2013\Projects\SURF\Debug\SURF.exe
+     1>已完成生成项目“c:\Users\steve\documents\visual studio 2013\Projects\SURF\SURF\SURF.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.00
